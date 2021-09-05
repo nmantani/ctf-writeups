@@ -39,8 +39,8 @@ Web の問題は解いている方が多いので割愛します。すみませ�
 ## Programming
 Programming の問題は解いている方が多いので割愛します。すみません。🙇‍♂️
 ## Pwn
-- [1989](#1989)
-- [Shellcode](#shellcode)
+- [1989](#1989-200-pts-81-solves)
+- [Shellcode](#shellcode-300-pts-51-solves)
 
 # Misc
 ## Thank_you_for_playing (0 pt, 12 solves)
