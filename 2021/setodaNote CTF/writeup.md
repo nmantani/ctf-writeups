@@ -978,7 +978,7 @@ unallocated_space ファイルを [FileInsight-plugins](https://github.com/nmant
 
 ということでパーティションテーブルを復元してみます。unallocated_space ファイルに以下のように値を書き込んで unallocated_space_fixed という名前で保存します。
 
-- オフセット 0x1c0 (パーティションタイプ): 0x7 (NTFS)
+- オフセット 0x1c2 (パーティションタイプ): 0x7 (NTFS)
 - オフセット 0x1c6 から 0x1c9 (パーティション開始位置): 0x80 (128セクタ目)
 - オフセット 0x1ca から 0x1cd (パーティションのサイズ): 0xef7f (61311 セクタ, unallocated_space の総セクタ数 61439 - 128)
 
